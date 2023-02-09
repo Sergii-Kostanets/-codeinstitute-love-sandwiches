@@ -1,6 +1,10 @@
+# Actions
+
 add creds.json
 
 pip3 install gspread google-auth
+
+python3 run.py
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
