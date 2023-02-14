@@ -2,11 +2,15 @@
 
 [GitHub Pages](https://sergii-kostanets.github.io/codeinstitute-love-sandwiches/)
 
-add creds.json
+- add creds.json
 
 pip3 install gspread google-auth
 
 python3 run.py
+
+pip3 freeze > requirements.txt
+
+[Heroku](https://love-sandwiches-codeinstitute.herokuapp.com/)
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
