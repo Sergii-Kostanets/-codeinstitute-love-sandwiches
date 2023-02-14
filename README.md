@@ -1,5 +1,7 @@
 # Actions
 
+[Heroku](https://love-sandwiches-codeinstitute.herokuapp.com/)
+
 [GitHub Pages](https://sergii-kostanets.github.io/codeinstitute-love-sandwiches/)
 
 - add creds.json
@@ -10,8 +12,6 @@ python3 run.py
 
 pip3 freeze > requirements.txt
 
-[Heroku](https://love-sandwiches-codeinstitute.herokuapp.com/)
-
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Sergii-Kostanets,
@@ -20,9 +20,9 @@ This is the Code Institute student template for deploying your third portfolio p
 
 ## Reminders
 
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
+    * Your code must be placed in the `run.py` file
+    * Your dependencies must be placed in the `requirements.txt` file
+    * Do not edit any of the other files or your code may not deploy properly
 
 ## Creating the Heroku app
 
